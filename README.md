@@ -156,7 +156,7 @@ Includes:
 ---
 
 ## Project Structure
-
+```text
 Olist_Sales_Analytics/
 │
 ├── data/
@@ -169,7 +169,7 @@ Olist_Sales_Analytics/
 │   ├── 02_month_filter_interaction.png
 │   ├── 03_daily_and_cumulative_revenue.png
 │   └── 04_rolling_30_day_revenue.png
-
+```
 ---
 
 ## Assumptions & Limitations
