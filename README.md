@@ -5,6 +5,7 @@ This project analyzes revenue performance trends using transactional sales data 
 The dashboard focuses on daily revenue behavior, cumulative growth, rolling trends, and time-based KPIs to support data-driven decision-making.
 
 The analysis was built in Power BI using a star-schema data model and custom DAX measures for time intelligence calculations.
+
 ---
 
 ## Dashboard Preview
