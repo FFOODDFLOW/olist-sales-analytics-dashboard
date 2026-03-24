@@ -159,7 +159,7 @@ Includes:
 ## Project Structure
 ```text
 Olist_Sales_Analytics/
-│
+├── README.md
 ├── data/
 ├── dax/
 │   └── dax_measures.md
